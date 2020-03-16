@@ -1,6 +1,6 @@
 # Create AKS Private Cluster 
 
-For more details, check the following blog post on [atouati.com]{https://atouati.com/posts/2020/03/aks-private-cluster/} 
+For more details, check the following blog post on [atouati.com](https://atouati.com/posts/2020/03/aks-private-cluster/) 
 
 ## Prerequisites
 
