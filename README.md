@@ -8,8 +8,6 @@ For more details, check the following blog post on [atouati.com]{https://atouati
 
 ## Creating a Private AKS Cluster
 
-The scripts for this demo are available on my Github [adeelku/aks-private](https://github.com/adeelku/aks-private.git).
-
 Executing ./scripts/deploy-all.sh script will automatically provision the following resources using variables that you define in ./scripts/params.sh:
 
 * Networking
